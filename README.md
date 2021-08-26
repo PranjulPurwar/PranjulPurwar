@@ -1,16 +1,16 @@
-### Hi there 👋
+### नमस्ते I am Pranjul Purwar👋
 
-<!--
-**PranjulPurwar/PranjulPurwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as Information technology in REC Banda
+- 🌱 I’m currently learning full stack development
+- 👯 I’m looking to collaborate with Technology.
+- 🤔 I’m looking for help with real world problems
+- 💬 Ask me about any tech related stuffs
+- 📫 How to reach me: <Facebook>
+- 😄 Pronouns: Hero
+- ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
